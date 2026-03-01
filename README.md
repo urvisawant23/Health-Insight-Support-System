@@ -77,7 +77,13 @@ This version focuses on:
 - Structured hospital-style layout
 - Dark mode compatibility
 
-Live Demo: https://dynamic-hare-628.convex.app/
+## Live Versions
+
+### 🔹 Version 1 – Streamlit (Core ML Version)
+👉 https://health-insight-support-system-dmwfcu4n3vjrtzyrhtcwm7.streamlit.app/
+
+### 🔹 Version 2 – AI-Enhanced UI (Chef Version)
+👉 https://dynamic-hare-628.convex.app/
 
 
 ##  Developed By
