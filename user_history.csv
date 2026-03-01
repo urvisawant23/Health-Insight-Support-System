@@ -1,0 +1,12 @@
+Date/Time,Symptoms,Primary Condition,Probability (%)
+2026-03-01 11:29:06,continuous_sneezing,Allergy,15.00
+2026-03-01 11:32:13,continuous_sneezing,Allergy,15.00
+2026-03-01 11:43:46,Chintu,15,Male,22.27,continuous_sneezing,Allergy,15.00
+2026-03-01 11:45:03,Chintu,15,Male,22.27,continuous_sneezing,Allergy,15.00
+2026-03-01 12:01:02,Chintu,15,Male,22.27,continuous_sneezing,Allergy,15.00
+2026-03-01 12:07:50,Chintu,15,Male,22.27,"shivering, stomach_pain",Allergy,26.00
+2026-03-01 12:08:38,Chintu,15,Male,22.27,"shivering, stomach_pain",Allergy,26.00
+2026-03-01 12:13:04,Urvi,18,Female,17.07,mood_swings,Gastroenteritis,11.00
+2026-03-01 12:16:35,Sanika,20,Female,25.51,continuous_sneezing,Allergy,15.00
+2026-03-01 12:17:48,Chintu,15,Male,20.94,continuous_sneezing,Allergy,15.00
+2026-03-01 12:19:52,Chintu,15,Male,20.94,continuous_sneezing,Allergy,15.00
